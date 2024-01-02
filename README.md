@@ -21,7 +21,7 @@ This Python project aimed to perform a comprehensive analysis of the dataset pro
 
 **4.Age Group Identification:**
   - Identified the predominant age group among employees.
-  - Visualized the age distribution using scatter plots or countplots for enhanced insight.
+  - Visualized the age distribution using countplots for enhanced insight.
 
 **5.Salary Analysis:**
   - Determined the team and position with the highest salary spending.
